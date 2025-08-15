@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body{
+  box-sizing: border-box;
+  height:100vh;
+  padding: 0px;
+  margin:0px;
+  color:white;
+  background-color: black;
+}
